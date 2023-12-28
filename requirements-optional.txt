@@ -31,6 +31,12 @@ websocket-client==1.2.0
 # claude bot
 curl_cffi
 
+# tongyi qwen
+broadscope_bailian
+
+# google
+google-generativeai
+
 # Midjournery
 Flask==2.2.2
 gevent==22.10.2
